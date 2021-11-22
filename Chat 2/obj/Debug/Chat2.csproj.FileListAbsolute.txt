@@ -1,0 +1,9 @@
+c:\users\unisanta\documents\visual studio 2017\Projects\Chat2\Chat2\bin\Debug\Chat2.exe.config
+c:\users\unisanta\documents\visual studio 2017\Projects\Chat2\Chat2\bin\Debug\Chat2.exe
+c:\users\unisanta\documents\visual studio 2017\Projects\Chat2\Chat2\bin\Debug\Chat2.pdb
+c:\users\unisanta\documents\visual studio 2017\Projects\Chat2\Chat2\obj\Debug\Chat2.csprojResolveAssemblyReference.cache
+c:\users\unisanta\documents\visual studio 2017\Projects\Chat2\Chat2\obj\Debug\Chat2.Form1.resources
+c:\users\unisanta\documents\visual studio 2017\Projects\Chat2\Chat2\obj\Debug\Chat2.Properties.Resources.resources
+c:\users\unisanta\documents\visual studio 2017\Projects\Chat2\Chat2\obj\Debug\Chat2.csproj.GenerateResource.Cache
+c:\users\unisanta\documents\visual studio 2017\Projects\Chat2\Chat2\obj\Debug\Chat2.exe
+c:\users\unisanta\documents\visual studio 2017\Projects\Chat2\Chat2\obj\Debug\Chat2.pdb
